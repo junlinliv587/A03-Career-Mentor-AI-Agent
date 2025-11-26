@@ -1,1 +1,6 @@
-
+langchain
+chromadb
+fastapi
+uvicorn
+openai
+streamlit
