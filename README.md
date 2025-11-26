@@ -43,7 +43,7 @@ This project fulfills the course requirements to design, build, and demonstrate 
 
 ## 📊 System Workflow Diagram
 
-See: `workflow_diagram.png` (exported from FigJam)
+See: `workflow_diagram.png` 
 
 ---
 
