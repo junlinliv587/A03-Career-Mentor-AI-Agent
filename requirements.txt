@@ -1,6 +1,13 @@
+# requirements.txt
 langchain
+langchain-community
+langchain-core
 chromadb
+streamlit
 fastapi
 uvicorn
+python-dotenv
 openai
-streamlit
+tiktoken
+pydantic
+requests
