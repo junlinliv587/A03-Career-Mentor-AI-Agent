@@ -48,4 +48,40 @@ See: `workflow_diagram.png`
 ---
 
 ## 📄 Project Files
+ai-agent-project/
+│
+├── Part_1_Report.md
+├── workflow_diagram.png
+├── src/
+│ └── agent_app.py
+├── requirements.txt
+└── README.md
 
+
+---
+
+## 🎥 Walkthrough Video
+ 
+*To be added after recording*
+
+---
+
+## 📘 Part 1 Report 
+👉 `Part_1_Report.md`
+
+---
+
+## ▶️ How to Run the Agent
+
+### 1. Install dependencies
+`pip install -r requirements.txt`
+
+### 2. Start the API backend
+`uvicorn src.agent_app:app --reload`
+
+---
+
+## 💡 Author
+Junlin Li  
+Course Project – AI Agent Development  
+2025
