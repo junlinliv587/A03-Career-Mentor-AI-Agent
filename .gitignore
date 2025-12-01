@@ -1,11 +1,14 @@
 # Ignore environment variables file with API keys
 .env
+*.env
 
 # Ignore Python virtual environment directory
 venv/
+.env/
 
 # Ignore Python cache files and compiled results
 __pycache__/
+cashe/
 *.pyc
 *.pyo
 *.pyd
@@ -15,6 +18,8 @@ __pycache__/
 # Ignore IDE configuration folders (if you use VS Code, PyCharm, etc.)
 .vscode/
 .idea/
+*.swp
+*.swo
 
 # Ignore local data directory created by ChromaDB vector database
 chroma_db/
